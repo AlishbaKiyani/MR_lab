@@ -1,0 +1,24 @@
+[0.394s] Invoking command in '/home/alishbakiyani/MR_Lab_Alishba_Kiyani/week1/my_first_pkg': PYTHONPATH=/home/alishbakiyani/MR_Lab_Alishba_Kiyani/week1/my_first_pkg/build/my_first_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/alishbakiyani/MR_Lab_Alishba_Kiyani/week1/my_first_pkg/install/my_first_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/my_first_pkg build --build-base /home/alishbakiyani/MR_Lab_Alishba_Kiyani/week1/my_first_pkg/build/my_first_pkg/build install --record /home/alishbakiyani/MR_Lab_Alishba_Kiyani/week1/my_first_pkg/build/my_first_pkg/install.log --single-version-externally-managed install_data
+[0.533s] running egg_info
+[0.534s] writing build/my_first_pkg/my_first_pkg.egg-info/PKG-INFO
+[0.534s] writing dependency_links to build/my_first_pkg/my_first_pkg.egg-info/dependency_links.txt
+[0.534s] writing entry points to build/my_first_pkg/my_first_pkg.egg-info/entry_points.txt
+[0.534s] writing requirements to build/my_first_pkg/my_first_pkg.egg-info/requires.txt
+[0.534s] writing top-level names to build/my_first_pkg/my_first_pkg.egg-info/top_level.txt
+[0.535s] reading manifest file 'build/my_first_pkg/my_first_pkg.egg-info/SOURCES.txt'
+[0.536s] writing manifest file 'build/my_first_pkg/my_first_pkg.egg-info/SOURCES.txt'
+[0.536s] running build
+[0.536s] running build_py
+[0.536s] copying my_first_pkg/simple_node.py -> /home/alishbakiyani/MR_Lab_Alishba_Kiyani/week1/my_first_pkg/build/my_first_pkg/build/lib/my_first_pkg
+[0.536s] running install
+[0.536s] running install_lib
+[0.536s] copying /home/alishbakiyani/MR_Lab_Alishba_Kiyani/week1/my_first_pkg/build/my_first_pkg/build/lib/my_first_pkg/simple_node.py -> /home/alishbakiyani/MR_Lab_Alishba_Kiyani/week1/my_first_pkg/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg
+[0.537s] byte-compiling /home/alishbakiyani/MR_Lab_Alishba_Kiyani/week1/my_first_pkg/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg/simple_node.py to simple_node.cpython-310.pyc
+[0.537s] running install_data
+[0.537s] running install_egg_info
+[0.538s] removing '/home/alishbakiyani/MR_Lab_Alishba_Kiyani/week1/my_first_pkg/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.538s] Copying build/my_first_pkg/my_first_pkg.egg-info to /home/alishbakiyani/MR_Lab_Alishba_Kiyani/week1/my_first_pkg/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg-0.0.0-py3.10.egg-info
+[0.539s] running install_scripts
+[0.552s] Installing simple_node script to /home/alishbakiyani/MR_Lab_Alishba_Kiyani/week1/my_first_pkg/install/my_first_pkg/lib/my_first_pkg
+[0.552s] writing list of installed files to '/home/alishbakiyani/MR_Lab_Alishba_Kiyani/week1/my_first_pkg/build/my_first_pkg/install.log'
+[0.567s] Invoked command in '/home/alishbakiyani/MR_Lab_Alishba_Kiyani/week1/my_first_pkg' returned '0': PYTHONPATH=/home/alishbakiyani/MR_Lab_Alishba_Kiyani/week1/my_first_pkg/build/my_first_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/alishbakiyani/MR_Lab_Alishba_Kiyani/week1/my_first_pkg/install/my_first_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/my_first_pkg build --build-base /home/alishbakiyani/MR_Lab_Alishba_Kiyani/week1/my_first_pkg/build/my_first_pkg/build install --record /home/alishbakiyani/MR_Lab_Alishba_Kiyani/week1/my_first_pkg/build/my_first_pkg/install.log --single-version-externally-managed install_data
